@@ -90,7 +90,7 @@
 }
 
 .contact-us{
-    max-width: 100%;
+    max-width: 120%;
     height: 80vh;
     background: linear-gradient(rgba(20, 20, 20, 0.999),rgba(20,20,20, .5)),url(../img/bg-3.jpeg);
     background-position: center center;
